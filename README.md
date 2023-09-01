@@ -37,7 +37,8 @@ Here's how the Hausman test can be used to test for endogeneity:
 **If the p-value is high, it suggests that there is not enough evidence to reject the null hypothesis, indicating that the OLS estimates may be consistent and unbiased, and endogeneity might not be a major concern.**
 
 
-![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fcausal-inference-with-linear-regression-endogeneity-9d9492663bac&psig=AOvVaw2CGT5n3LS6DgzSIMGMDm60&ust=1693641866228000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOD-vuj5iIEDFQAAAAAdAAAAABAE)
+![Logo](![image](https://github.com/Anshumaan031/endogeneity-for-econometrics-/assets/67821036/cbb5a3c6-59dc-4fda-93be-2e46fd2a3f2a)
+)
 
 
 
